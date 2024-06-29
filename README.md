@@ -18,6 +18,6 @@ Run the script:
 python titanic_survival_prediction.py
 ```
 
-#Results
+## Results
 
 The model achieves an accuracy of approximately 81%. Results are saved in titanic_predictions.csv.
